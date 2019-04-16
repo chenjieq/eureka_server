@@ -1,0 +1,5 @@
+#discovery-server:
+#  image: springboot/eureka
+#  hostname: discovery-server
+#  ports:
+#    - "8761:8761"
